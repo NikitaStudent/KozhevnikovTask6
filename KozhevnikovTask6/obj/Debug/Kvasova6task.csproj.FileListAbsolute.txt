@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\bin\Debug\Kvasova6task.exe.config
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\bin\Debug\Kvasova6task.exe
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\bin\Debug\Kvasova6task.pdb
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.Form1.resources
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.Properties.Resources.resources
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.exe
+\\Mac\Home\Downloads\Kvasova6task-master\Kvasova6task\obj\Debug\Kvasova6task.pdb

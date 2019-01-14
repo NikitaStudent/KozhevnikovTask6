@@ -1,0 +1,10 @@
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\bin\Debug\KozhevnikovTask6.exe.config
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\bin\Debug\KozhevnikovTask6.exe
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\bin\Debug\KozhevnikovTask6.pdb
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.Form1.resources
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.Properties.Resources.resources
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.exe
+C:\Users\Никита\Desktop\Kvasova6task-master\KozhevnikovTask6\obj\Debug\KozhevnikovTask6.pdb
